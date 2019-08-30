@@ -177,7 +177,6 @@ S3method(print, geo.legend)
 S3method(print, geo.palette)
 S3method(scores, phyl.pca)
 
-importFrom(animation, ani.options, ani.record, ani.replay, saveVideo)
 importFrom(ape, .PlotPhyloEnv, .uncompressTipLabel, ace, all.equal.phylo, as.DNAbin, as.phylo, bind.tree, branching.times, collapse.singles)
 importFrom(ape, consensus, compute.brlen, cophenetic.phylo, corBrownian, di2multi, dist.dna, dist.nodes, drop.tip, edgelabels, extract.clade)
 importFrom(ape, getMRCA, is.binary)
