@@ -3,6 +3,10 @@ I removed the `animation` dependency to install phytools on pasteur cluster. Mos
 
 ## Install
 
+On TARS before:
+`module load gcc/4.7.4 R/3.6.0`
+
+In R:
 ```
 install.packages("devtools")
 library(devtools)
